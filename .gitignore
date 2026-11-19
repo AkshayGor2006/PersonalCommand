@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets and signing files
+*.jks
+*.keystore
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
